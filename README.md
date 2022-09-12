@@ -1,4 +1,4 @@
-# Welcome to Luctisity!
+# <img src="./luctisity-small.png" alt="L" height="32" /> Welcome to Luctisity!
 This github org contains the source code for different parts of Luctisity's editor and website!
 
 ## 🗺️ Roadmap
