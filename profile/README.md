@@ -9,7 +9,7 @@ Core engine for Luctisity Basic, which manages the internal state of the project
 - 📜 **[luctisity-evaluator](https://github.com/Luctisity/luctisity-evaluator) <br/>**
 A module responsible for executing and evaluating scripts in Luctisity Basics. It uses iframes to evaluate in a safe and isolated way.
 
-- 🎥 **[luctisity-render](https://github.com/Luctisity/luctisity-basic-render)** (TODO) <br/>
+- 🎥 **[luctisity-render](https://github.com/Luctisity/luctisity-basic-render)** <br/>
 Does canvas rendering, audio playback and user input capturing. It communicates directly with luctisity-core.
 
 - 🖌️ **luctisity-editor** (TODO) <br/>
