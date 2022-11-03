@@ -6,8 +6,8 @@ This github org contains the source code for different parts of Luctisity's edit
 - ⚙️ **[luctisity-core](https://github.com/Luctisity/luctisity-basic-core) <br/>**
 Core engine for Luctisity Basic, which manages the internal state of the project, sprites and such. It communicates directly with luctisity-render.
 
-- 📜 **[luctisity-evaluator](https://github.com/Luctisity/luctisity-evaluator) <br/>**
-A module responsible for executing and evaluating scripts in Luctisity Basics. It uses iframes to evaluate in a safe and isolated way.
+- 📜 **[crysp](https://github.com/Luctisity/crysp) <br/>**
+The scripting language for Luctisity.
 
 - 🎥 **[luctisity-render](https://github.com/Luctisity/luctisity-basic-render)** <br/>
 Does canvas rendering, audio playback and user input capturing. It communicates directly with luctisity-core.
