@@ -20,4 +20,4 @@ A GUI wrapper for Luctisity Basic, combining luctisity-core, luctisity-evaluator
 Luctisity's web platform and social network. This repo contains the front-end code, written in React.
 
 - ☁️ **luctisity-server** (private) <br/>
-Sever-side (back-end) code for Luctisity's website.
+Server-side (back-end) code for Luctisity's website.
